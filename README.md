@@ -1,4 +1,4 @@
-# Mayank Sharma's GitHub Universe 🚀
+# Mayank Sharma's GitHub Universe 🌟
 
 ![Banner](https://your-banner-image-link.com)
 
@@ -8,18 +8,18 @@
   <img src="https://scontent.fdel8-2.fna.fbcdn.net/v/t39.30808-6/305655806_421582943444336_1035178317495026491_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dpUPaJ-9nMUQ7kNvgH6hL-N&_nc_ht=scontent.fdel8-2.fna&oh=00_AYBgvPGFVt0qJ6f-UFXBP3IAd2ZfOsHn0bsKBIw9JJD_HQ&oe=667FA4AF" alt="DTU Logo" width="100"/>
 </p>
 
-Behold, adventurers! I am Mayank Sharma, a final year B.Tech student at Delhi Technological University (DTU), delving deep into the realms of programming, machine learning, AI, and data science. Join me in unraveling new algorithms and crafting innovative projects that defy convention.
+Welcome to my GitHub world! I'm Mayank Sharma, a final year B.Tech student at Delhi Technological University (DTU), deeply passionate about programming, machine learning, AI, and data science. Join me in unraveling new algorithms and crafting innovative projects that push the boundaries of technology.
 
-## Charting Courses in AI & ML
-Armed with a mastery of various AI and ML algorithms, I forge ahead, transforming ideas into robust models.
+## AI & ML Expertise
+With proficiency in various AI and ML algorithms, I excel in developing robust models that solve real-world problems.
 
-## Skills & Tools at the Ready
+## Skills & Tools
 - **Programming Languages:** Python, C, C++, HTML, CSS
 - **Tools & Frameworks:** VSCode, Google Collaboratory, Jupyter Notebook, Git & GitHub, Matlab, Premiere Pro 2022, Photoshop, Canva
 - **Other Skills:** Graphic Design, SEO Analysis, Content Writing, Ad Analysis, Affiliate Marketing, CRM Management
 
 ## Projects & Contributions
-- From groundbreaking AI systems to open-source contributions, my journey is marked by innovation and impact.
+- From groundbreaking AI systems to impactful open-source contributions, my journey reflects innovation and dedication.
 
 ## GitHub Analytics
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAINKS&show_icons=true&theme=radical)
@@ -29,7 +29,7 @@ Armed with a mastery of various AI and ML algorithms, I forge ahead, transformin
 ![trophy](https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical)
 
 ## Visualizing Activity
-![Mayank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MAINKS&bg_color=ffffff&color=708090&line=24292e&point=24292e)
+![Mayank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MAINKS&custom_title=Mayank's%20Contribution%20Graph&theme=dracula)
 
 ## Technologies I Command
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
