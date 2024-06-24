@@ -2,13 +2,9 @@
 
 ## Discovering the Depths of Tech and Code
 
-<p align="left">
-  <img src="https://scontent.fdel8-2.fna.fbcdn.net/v/t39.30808-6/305655806_421582943444336_1035178317495026491_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dpUPaJ-9nMUQ7kNvgH6hL-N&_nc_ht=scontent.fdel8-2.fna&oh=00_AYBgvPGFVt0qJ6f-UFXBP3IAd2ZfOsHn0bsKBIw9JJD_HQ&oe=667FA4AF" alt="DTU Logo" width="100"/>
-</p>
-
 Welcome to my GitHub universe! Here's a glimpse into my journey through tech and code:
 
-- 🎓 **Education:** Final year B.Tech student at Delhi Technological University (DTU) <img src="https://scontent.fdel8-2.fna.fbcdn.net/v/t39.30808-6/305655806_421582943444336_1035178317495026491_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dpUPaJ-9nMUQ7kNvgH6hL-N&_nc_ht=scontent.fdel8-2.fna&oh=00_AYBgvPGFVt0qJ6f-UFXBP3IAd2ZfOsHn0bsKBIw9JJD_HQ&oe=667FA4AF" alt="DTU Logo" width="20"/>
+- 🎓 **Education:** Final year B.Tech student at Delhi Technological University (DTU) <img src="https://scontent.fdel8-2.fna.fbcdn.net/v/t39.30808-6/305655806_421582943444336_1035178317495026491_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dpUPaJ-9nMUQ7kNvgH6hL-N&_nc_ht=scontent.fdel8-2.fna&oh=00_AYBgvPGFVt0qJ6f-UFXBP3IAd2ZfOsHn0bsKBIw9JJD_HQ&oe=667FA4AF" alt="DTU Logo" width="50"/>
 - 🧠 **AI & ML Aspirations:** Dedicated to mastering Data Science, Machine Learning, and AI models to solve complex problems and drive innovation .
 
  ## 🔧 Tools & Technologies: </br>
@@ -41,12 +37,13 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 
   <!-- Second Row: Most Used Languages -->
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAINKS&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAINKS&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/></p>
   </div>
 
   <!-- Third Row: Trophies -->
+  </br>
   <div style="flex: 1;">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical" alt="Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical" alt="Trophies" width="100%" height="20%"/>
   </div>
 
 </div>
