@@ -4,7 +4,7 @@
 
 Welcome to my GitHub universe! Here's a glimpse into my journey through tech and code:
 
-- 🎓 **Education:** Final year B.Tech student at Delhi Technological University (DTU) <img src="https://scontent.fdel8-2.fna.fbcdn.net/v/t39.30808-6/305655806_421582943444336_1035178317495026491_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dpUPaJ-9nMUQ7kNvgH6hL-N&_nc_ht=scontent.fdel8-2.fna&oh=00_AYBgvPGFVt0qJ6f-UFXBP3IAd2ZfOsHn0bsKBIw9JJD_HQ&oe=667FA4AF" alt="DTU Logo" width="50"/>
+- 🎓 **Education:** Final year B.Tech student at Delhi Technological University (DTU) <img src="https://github.com/MAINKS/MAINKS/blob/045f101ae40447a4f45b60b39cba8578feac76d5/68747470733a2f2f73636f6e74656e742e6664656c382d322e666e612e666263646e2e6e65742f762f7433392e33303830382d362f3330353635353830365f3432313538323934333434343333365f313033353137383331373439353032363439315f6e.png" alt="DTU Logo" width="50"/>
 - 🧠 **AI & ML Aspirations:** Dedicated to mastering Data Science, Machine Learning, and AI models to solve complex problems and drive innovation .
 
  ## 🔧 Tools & Technologies: </br>
