@@ -1,4 +1,4 @@
-# Mayank Sharma's GitHub Universe 🌟
+# <h1 align = "center">Mayank Sharma's GitHub Universe 🌟 </h1>
 
 ## Discovering the Depths of Tech and Code
 
