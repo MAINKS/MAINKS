@@ -21,7 +21,7 @@ Armed with a mastery of various AI and ML algorithms, I forge ahead, transformin
 ## Projects & Contributions
 - From groundbreaking AI systems to open-source contributions, my journey is marked by innovation and impact.
 
-## GitHub Insights
+## GitHub Analytics
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAINKS&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAINKS&layout=compact&theme=radical)
 
@@ -29,7 +29,7 @@ Armed with a mastery of various AI and ML algorithms, I forge ahead, transformin
 ![trophy](https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical)
 
 ## Visualizing Activity
-![Mayank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MAINKS&theme=react-dark)
+![Mayank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MAINKS&bg_color=ffffff&color=708090&line=24292e&point=24292e)
 
 ## Technologies I Command
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
