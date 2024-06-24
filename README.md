@@ -1,3 +1,4 @@
+![logo](https://github.com/MAINKS/MAINKS/blob/2f1397cdb5f1a8458a441676154438c6afcf2aa2/banner.png)
 # <h1 align = "center">Mayank Sharma's GitHub Universe 🌟 </h1>
 
 ## Discovering the Depths of Tech and Code
