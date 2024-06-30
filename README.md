@@ -9,14 +9,6 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 - 🧠 **AI & ML Aspirations:** Dedicated to mastering Data Science, Machine Learning, and AI models to solve complex problems and drive innovation .
 
  ## 🔧 Tools & Technologies:
- ### Tools & Technologies
-
-### Tools & Technologies
-
-Apologies for the persisting issues with the logos! Here's a further refined version of the code, incorporating multiple reliable sources to ensure all logos are displayed correctly:
-
-Markdown
-### Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/python-2749327-2284717.png?f=webp" alt="Python" width="40" height="40"/>
