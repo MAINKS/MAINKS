@@ -33,6 +33,9 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   <img src="https://www.pikpng.com/pngl/m/70-706147_download-logo-icon-studio-youtube-svg-eps-png.png" alt="YouTube" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="Adsense" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" alt="Blogger" width="40" height="40"/>
+  <img src="https://assets.cdn.filesafe.space/yG6WajimwPRJKPRNhPD6/media/ef3db0a5-bf3f-4b83-904a-7a9856789e0b.png" alt="Mypipeline" width="40" height="40"/>
 </p>
 
 
