@@ -8,24 +8,43 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 - 🎓 **Education:** Final year B.Tech student at Delhi Technological University (DTU) <img src="https://github.com/MAINKS/MAINKS/blob/045f101ae40447a4f45b60b39cba8578feac76d5/68747470733a2f2f73636f6e74656e742e6664656c382d322e666e612e666263646e2e6e65742f762f7433392e33303830382d362f3330353635353830365f3432313538323934333434343333365f313033353137383331373439353032363439315f6e.png" alt="DTU Logo" width="50"/>
 - 🧠 **AI & ML Aspirations:** Dedicated to mastering Data Science, Machine Learning, and AI models to solve complex problems and drive innovation .
 
- ## 🔧 Tools & Technologies: </br>
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Google Collaboratory](https://img.shields.io/badge/-Google%20Collaboratory-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-  ![Premiere Pro CC](https://img.shields.io/badge/-Premiere%20Pro%20CC-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-  ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-  ![YouTube Studio](https://img.shields.io/badge/-YouTube%20Studio-FF0000?style=flat-square&logo=youtube&logoColor=white)
+ ## 🔧 Tools & Technologies:
+ ### Tools & Technologies
 
+### Tools & Technologies
+
+Apologies for the persisting issues with the logos! Here's a further refined version of the code, incorporating multiple reliable sources to ensure all logos are displayed correctly:
+
+Markdown
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-1024.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="50" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" alt="Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://www.pikpng.com/pngl/m/70-706147_download-logo-icon-studio-youtube-svg-eps-png.png" alt="YouTube" width="40" height="40"/>
+</p>
+
+
+  
 ## 📊 GitHub Analytics and More
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
