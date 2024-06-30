@@ -36,6 +36,7 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="Adsense" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" alt="Blogger" width="40" height="40"/>
   <img src="https://assets.cdn.filesafe.space/yG6WajimwPRJKPRNhPD6/media/ef3db0a5-bf3f-4b83-904a-7a9856789e0b.png" alt="Mypipeline" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" alt="Google Search Console" width="40" height="40"/>
 </p>
 
 
