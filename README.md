@@ -25,6 +25,7 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="40"/>
   <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+  <img src="https://img.stackshare.io/service/5601/keras.png" alt="Keras" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
