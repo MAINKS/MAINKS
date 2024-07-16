@@ -1,4 +1,5 @@
 ![logo](https://github.com/MAINKS/MAINKS/blob/2f1397cdb5f1a8458a441676154438c6afcf2aa2/banner.png)
+![Visitor Count](https://komarev.com/ghpvc/?username=MAINKS&style=flat-square)
 # <h1 align = "center">Mayank Sharma's GitHub Universe 🌟 </h1>
 
 ## Discovering the Depths of Tech and Code
@@ -63,9 +64,7 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 
 
 ## 🔗 Reach Out
-- LinkedIn: [Mayank Sharma](https://www.linkedin.com/in/mayank-sharma-123456/)
+- LinkedIn: [Mayank Sharma](https://www.linkedin.com/in/mainksharma/)
 - Email: manysharma222@gmail.com
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MAINKS&style=flat-square)
