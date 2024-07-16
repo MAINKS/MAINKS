@@ -41,46 +41,22 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 </p>
 
 
+
   
 ## 📊 GitHub Analytics and More
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <!-- First Row: GitHub Stats and Contributions -->
-  <div style="flex: 1; display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAINKS&show_icons=true&theme=radical" alt="Mayank's GitHub stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAINKS&theme=radical" alt="Contributions" width="48%"/>
-  </div>
-
-  <!-- Second Row: Most Used Languages -->
-  <div style="flex: 1;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAINKS&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/></p>
-  </div>
-
-  <!-- Third Row: Trophies -->
-  </br>
-  <div style="flex: 1;">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical" alt="Trophies" width="100%" height="20%"/>
-  </div>
-
-</div>
-
-
-
-
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MAINKS&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MAINKS&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MAINKS&show_icons=true&theme=radical">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MAINKS&layout=compact&theme=radical" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=MAINKS&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MAINKS&theme=onedark" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MAINKS&theme=radical" />
 </div>
 
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MAINKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/MAINKS/MAINKS/output/github-contribution-grid-snake-dark.svg)
-
 
 
 
