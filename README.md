@@ -65,6 +65,27 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 
 </div>
 
+
+
+
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+</div>
+
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/MAINKS/MAINKS/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
+
 ## 🔗 Reach Out
 - LinkedIn: [Mayank Sharma](https://www.linkedin.com/in/mayank-sharma-123456/)
 - Email: manysharma222@gmail.com
