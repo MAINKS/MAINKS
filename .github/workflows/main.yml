@@ -17,16 +17,16 @@ jobs:
           github_user_name: MAINKS
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the content of <build_dir> to a branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push the content of <build_dir> to the main branch
+      - name: push github-contribution-grid-snake.svg to the main branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git clone --single-branch --branch output https://github.com/MAINKS/MAINKS.git output
-          cp -r dist/* output/
-          cd output
+          git clone --single-branch --branch main https://github.com/MAINKS/MAINKS.git
+          cp -r dist/* MAINKS/
+          cd MAINKS
           git add .
           git commit -m "Update github-contribution-grid-snake.svg"
-          git push https://PAT_TOKEN@github.com/MAINKS/MAINKS.git output
+          git push https://PAT_TOKEN@github.com/MAINKS/MAINKS.git main
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
