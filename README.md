@@ -57,7 +57,7 @@ Welcome to my GitHub universe! Here's a glimpse into my journey through tech and
 [![Trophies](https://github-profile-trophy.vercel.app/?username=MAINKS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/MAINKS/MAINKS/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/MAINKS/MAINKS/blob/output/github-contribution-grid-snake.svg)
 
 
 
